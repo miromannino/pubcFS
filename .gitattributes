@@ -1,3 +1,4 @@
 config/* linguist-detectable=false
 libtool linguist-detectable=false
 config.status linguist-detectable=false
+Makefile* linguist-detectable=false
